@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Constructor Methods\bin\Debug\netcoreapp3.1\Constructor Methods.exe
+C:\Users\dev\Desktop\Constructor Methods\bin\Debug\netcoreapp3.1\Constructor Methods.deps.json
+C:\Users\dev\Desktop\Constructor Methods\bin\Debug\netcoreapp3.1\Constructor Methods.runtimeconfig.json
+C:\Users\dev\Desktop\Constructor Methods\bin\Debug\netcoreapp3.1\Constructor Methods.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Constructor Methods\bin\Debug\netcoreapp3.1\Constructor Methods.dll
+C:\Users\dev\Desktop\Constructor Methods\bin\Debug\netcoreapp3.1\Constructor Methods.pdb
+C:\Users\dev\Desktop\Constructor Methods\obj\Debug\netcoreapp3.1\Constructor Methods.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Constructor Methods\obj\Debug\netcoreapp3.1\Constructor Methods.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Constructor Methods\obj\Debug\netcoreapp3.1\Constructor Methods.AssemblyInfo.cs
+C:\Users\dev\Desktop\Constructor Methods\obj\Debug\netcoreapp3.1\Constructor Methods.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Constructor Methods\obj\Debug\netcoreapp3.1\Constructor Methods.dll
+C:\Users\dev\Desktop\Constructor Methods\obj\Debug\netcoreapp3.1\Constructor Methods.pdb
+C:\Users\dev\Desktop\Constructor Methods\obj\Debug\netcoreapp3.1\Constructor Methods.genruntimeconfig.cache
